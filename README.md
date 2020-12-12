@@ -9,3 +9,6 @@ Skills: C / C++ / C# / .Net / Python / Angular / Vue
 ### Pluralsight IQ results
 ![Pluralsight IQ C#](https://i.stack.imgur.com/9V8Up.png)
 ![Pluralsight IQ C++](https://i.stack.imgur.com/tMnww.png)
+
+### StackOverflow
+[![](https://stackoverflow.com/users/flair/154157.png)](https://stackoverflow.com/users/154157/dmitriy)
