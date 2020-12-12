@@ -5,3 +5,7 @@ I have 20+ years of professional experience in the full software development lif
 Skills: C / C++ / C# / .Net / Python / Angular / Vue
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=DmitriyMaksimov&show_icons=true&hide_border=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=DmitriyMaksimov&show_icons=true&hide_border=true&theme=vue)
+
+### Pluralsight IQ results
+![Pluralsight IQ C#](https://i.stack.imgur.com/9V8Up.png)
+![Pluralsight IQ C++](https://i.stack.imgur.com/tMnww.png)
