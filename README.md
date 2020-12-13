@@ -29,8 +29,10 @@ C / C++ / C# / .Net / Python / Angular / Vue
 ![](https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ##### Other
 ![](https://img.shields.io/badge/Qt-41cd52.svg?&style=for-the-badge&logo=qt&logoColor=white)
