@@ -32,7 +32,7 @@ Skills: C / C++ / C# / .Net / Python / Angular / Vue
 ![](https://img.shields.io/badge/oracle-F00000.svg?logo=oracle&logoColor=white)
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=DmitriyMaksimov&show_icons=true&hide_border=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=DmitriyMaksimov&show_icons=true&hide_border=true&theme=vue)
+![Github stats](https://github-readme-stats.vercel.app/api?username=DmitriyMaksimov&show_icons=true&hide_border=true&theme=vue)
 
 ### Pluralsight IQ results
 ![Pluralsight IQ C#](https://i.stack.imgur.com/9V8Up.png)
