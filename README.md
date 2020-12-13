@@ -2,7 +2,8 @@
 #### Results-driven, business and customer-focused Software Engineer who can think “out of the box”
 I have 20+ years of professional experience in the full software development lifecycle – from concept through delivery of cutting-edge solutions with a wide range of technology stacks on Windows and Linux operating systems.
 
-Skills: C / C++ / C# / .Net / Python / Angular / Vue
+#### Skills
+C / C++ / C# / .Net / Python / Angular / Vue
 
 ![](https://img.shields.io/badge/c-00599C.svg?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c++-00599C.svg?logo=c%2B%2B&ogoColor=white)
